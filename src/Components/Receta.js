@@ -62,6 +62,7 @@ const Receta = ({ receta }) => {
     return ingredientes;
   };
 
+  //---RETURN DEL COMPONENTE---//
   return (
     <div className="col-md-4 mb-3">
       <div className="card">

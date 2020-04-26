@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import Receta from "./Receta";
 
-//Context
+//ContextAPI
 import { RecetasContext } from "../Context/RecetasContext";
 
 const ListaRecetas = () => {
